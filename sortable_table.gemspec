@@ -27,4 +27,5 @@ Gem::Specification.new do |s|
 
   s.platform = Gem::Platform::RUBY
   s.rubygems_version = %q{1.2.0}
+  s.licenses = ["MIT"]
 end
